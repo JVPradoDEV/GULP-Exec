@@ -1,0 +1,13 @@
+@use "variaveis";
+
+body {
+    background-color: variaveis.$corPrincipal;
+}
+
+header{
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+}
